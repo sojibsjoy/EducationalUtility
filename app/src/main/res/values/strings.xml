@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Educational Utility</string>
+    <string name="alb_title">Exit</string>
+    <string name="alb_message">Are you sure?</string>
+    <string name="about_us">About Us</string>
+    <string name="calculator">"  "Calculator</string>
+</resources>
